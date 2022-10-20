@@ -2,6 +2,8 @@ package steganographie;
 
 import steganographie.imageloader.ImageLoader;
 
+import java.awt.*;
+
 public class MainClass {
 
     private void loadImage(String path) {
